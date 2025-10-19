@@ -1,4 +1,6 @@
 // src/components/Hero.jsx
+import React from "react";
+
 const Hero = () => {
   return (
     <section id="home" className="bg-gradient-to-r from-primary to-secondary text-white py-22">
@@ -22,7 +24,7 @@ const Hero = () => {
         </div>
       </div>
     </section>
-  );
+  )
 };
 
 export default Hero;

@@ -1,3 +1,5 @@
+import React from "react";
+
 const About = () => {
   return (
     <section id="about" className="py-16 bg-white dark:bg-gray-900">
